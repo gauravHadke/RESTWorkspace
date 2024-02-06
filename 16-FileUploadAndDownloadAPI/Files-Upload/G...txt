@@ -1,0 +1,9 @@
+Worked for client B.TECH application. B.TECH is an authorized seller of international electronics 
+brands.
+•	Responsible to develop PDP (Product Details Page).
+•	Worked on MVVM(Model-View-ViewModel)
+•	Worked on Retrofit Client
+•	Knowledge of GraphQL and Apollo Client
+•	Knowledge of Jetpack Compose 
+•	Knowledge of React-Native
+

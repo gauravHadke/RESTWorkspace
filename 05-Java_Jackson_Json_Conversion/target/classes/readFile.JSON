@@ -1,0 +1,13 @@
+[ {
+  "studentId" : 111,
+  "studentName" : "Rocky",
+  "studentSkill" : "Python"
+}, {
+  "studentId" : 222,
+  "studentName" : "Jasmin",
+  "studentSkill" : "Mysql"
+}, {
+  "studentId" : 333,
+  "studentName" : "Vaibhav",
+  "studentSkill" : "AWS"
+} ]
